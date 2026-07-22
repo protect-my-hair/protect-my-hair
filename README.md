@@ -1,60 +1,74 @@
-<h1 align="center">Hi, I'm H_JenWay</h1>
+<div align="center">
 
-<p align="center">
-  <strong>AI Agent Builder · Developer · Student @ NJUPT</strong>
-</p>
+<img src="./assets/hero.svg" alt="H-Jenway profile banner" width="100%" />
 
-<p align="center">
-  <img alt="AI Agent" src="https://img.shields.io/badge/AI%20Agent-Builder-2F80ED?style=flat-square">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-Practice-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-Practice-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Tooling-181717?style=flat-square&logo=github&logoColor=white">
-</p>
-
-## About Me / 关于我
-
-I'm exploring how AI agents, automation, and developer tools can turn ideas into working systems faster.
-
-我关注 AI Agent、自动化工具和工程交付，希望把复杂想法拆成可以验证、可以维护、可以持续迭代的产品与工具。
-
-- Student at Nanjing University of Posts and Telecommunications.
-- Building practical workflows around Codex, GitHub, and agent-driven development.
-- Interested in TypeScript, Python, CLI tooling, and clean engineering habits.
-
-## Currently / 现在关注
-
-- AI agent workflows and human-in-the-loop development.
-- GitHub profile, skills, automation, and repository tooling.
-- TypeScript + Python projects with clear structure and reliable verification.
-- Turning small experiments into reusable tools.
-
-## Tech Stack / 技术栈
+<h3>你好，我是 H-Jenway 👋</h3>
 
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white">
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+  专注于 AI Agent、自动化工具与工程化交付，<br />
+  喜欢把复杂想法拆解成可验证、可维护、可持续迭代的系统。
 </p>
 
-## Featured Project / 代表项目
+<sub>AI Agent Builder · Developer · Student @ NJUPT</sub>
 
-<a href="https://github.com/protect-my-hair/skills-repo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=protect-my-hair&repo=skills-repo&theme=default&hide_border=true" alt="skills-repo" />
-</a>
+</div>
 
-`skills-repo` is my public practice space for skills, tooling, and engineering workflow experiments.
+<img src="./assets/section-divider.svg" alt="Section divider" width="100%" />
 
-## GitHub Snapshot / GitHub 数据
+## 🙋 About Me
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=protect-my-hair&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=protect-my-hair&layout=compact&hide_border=true" alt="Top languages" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>我在做什么</h3>
+      <p>围绕 AI Agent、开发者工具和自动化工作流进行实践，让创意更快成为能够真实运行的产品。</p>
+      <p>我重视清晰的结构、可靠的验证，以及能够长期维护的工程习惯。</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>What I care about</h3>
+      <ul>
+        <li>Human-in-the-loop 的智能体协作</li>
+        <li>清晰、可靠的 TypeScript 与 Python 工程</li>
+        <li>CLI、GitHub Actions 与自动化工作流</li>
+        <li>从小型实验沉淀可复用工具</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## Contact / 连接
+## 🧭 Current Focus
 
-- GitHub: [@protect-my-hair](https://github.com/protect-my-hair)
+<div align="center">
+  <img src="./assets/terminal.svg" alt="H-Jenway current focus" width="100%" />
+</div>
+
+## 🧰 Tech Stack
+
+<div align="center">
+  <img src="./assets/tech-stack.svg" alt="H-Jenway technology stack" width="100%" />
+</div>
+
+## 🚀 Featured Work
+
+| Project | Focus |
+| --- | --- |
+| `skills-repo` | Skills、开发工具与工程化工作流实践 |
+| `protect-my-hair` | 个人主页、GitHub 实验与持续迭代记录 |
+
+## 🌱 Build Rhythm
+
+<div align="center">
+  <img src="./assets/contribution-grid.svg" alt="Keep shipping contribution rhythm" width="100%" />
+</div>
+
+<img src="./assets/section-divider.svg" alt="Section divider" width="100%" />
+
+<div align="center">
+
+<strong>Build thoughtfully. Verify carefully. Keep shipping.</strong>
+
+<br />
+
+<sub>Made with Markdown and a little curiosity.</sub>
+
+</div>

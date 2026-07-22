@@ -1,0 +1,32 @@
+<svg width="1100" height="260" viewBox="0 0 1100 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="shell" x1="0" y1="0" x2="1100" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="prompt" x1="41" y1="0" x2="259" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1098" height="258" rx="20" fill="url(#shell)" stroke="#64748B" stroke-opacity="0.4" stroke-width="2"/>
+  <path d="M1 54H1099" stroke="#334155"/>
+  <circle cx="30" cy="28" r="7" fill="#FB7185"/>
+  <circle cx="54" cy="28" r="7" fill="#FBBF24"/>
+  <circle cx="78" cy="28" r="7" fill="#34D399"/>
+  <text x="511" y="34" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">h-jenway — focus</text>
+
+  <text x="42" y="92" fill="url(#prompt)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="700">H-Jenway</text>
+  <text x="138" y="92" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">:</text>
+  <text x="152" y="92" fill="#A5B4FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">~</text>
+  <text x="168" y="92" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">$ now</text>
+
+  <text x="42" y="128" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">01</text>
+  <text x="82" y="128" fill="#E0E7FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">designing practical AI-agent workflows</text>
+  <text x="42" y="162" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">02</text>
+  <text x="82" y="162" fill="#E0E7FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">building TypeScript and Python tooling</text>
+  <text x="42" y="196" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">03</text>
+  <text x="82" y="196" fill="#E0E7FF" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">turning experiments into reusable systems</text>
+  <text x="42" y="230" fill="#67E8F9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">ready</text>
+  <rect x="94" y="216" width="10" height="17" rx="2" fill="#C084FC"/>
+</svg>
